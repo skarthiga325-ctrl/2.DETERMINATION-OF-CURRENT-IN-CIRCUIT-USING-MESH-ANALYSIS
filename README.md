@@ -21,7 +21,8 @@
 *Multi-source DC circuits may be analyzed using a mesh current technique. The process involves identifying minimum number of small loops such that every component exists in at least one loop. KVL is then applied to each loop. The loop currents are referred to as mesh currents as each current interlocks or meshes with the surrounding loop currents. As a result there will be a set of simultaneous equations created, an unknown mesh current for each loop. Once the mesh currents are determined, various branch currents and component voltages may be derived*
 
 **CIRCUIT DIAGRAM:**
-![WhatsApp Image 2025-10-24 at 13 21 09_a205b896](https://github.com/user-attachments/assets/d403591f-d477-41cb-b4ac-ba790cddca03)
+![WhatsApp Image 2025-10-24 at 13 21 10_03c5b4fb](https://github.com/user-attachments/assets/1489b72e-81c8-4fbe-b69a-c30d6710cc18)
+
 
 
 **PROCEDURE:** 
@@ -39,8 +40,9 @@
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
 **calculation**
-![WhatsApp Image 2025-10-24 at 13 21 38_2c10a11b](https://github.com/user-attachments/assets/cfa269cc-a0de-4324-9637-0f33b5f08af3)
-![WhatsApp Image 2025-10-24 at 13 21 58_6414223a](https://github.com/user-attachments/assets/756dcc35-5828-45ee-8da1-166bd5ae386b)
+![WhatsApp Image 2025-10-24 at 13 21 38_313a2f15](https://github.com/user-attachments/assets/8b7810d9-ed89-4ee3-be69-b59df0b73032)
+![WhatsApp Image 2025-10-24 at 13 21 58_65c3e286](https://github.com/user-attachments/assets/73dafd1d-7bb9-4cb7-99dc-260506db61cd)
+
 
 
 
